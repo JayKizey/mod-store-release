@@ -1,17 +1,17 @@
 {
   "product": "tool_auto_soncap",
   "name": "Tool Auto Sơn Cáp",
-  "version": "1.0.0",
-  "versionCode": 100,
+  "version": "1.0.1",
+  "versionCode": 101,
   "releaseDate": "2026-10-09",
   "downloadUrl": "https://github.com/JayKizey/mod-store-release/releases/latest/download/ToolAutoSonCap_Release.zip",
-  "fallbackUrl": "https://github.com/JayKizey/mod-store-release/releases/download/v1.0.0/ToolAutoSonCap_Release.zip",
+  "fallbackUrl": "https://github.com/JayKizey/mod-store-release/releases/download/v1.0.1/ToolAutoSonCap_Release.zip",
   "changelog": [
-    "Khởi tạo phát hành chính thức Tool Auto Sơn Cáp v1.0.0",
-    "Tự động đi hang Sơn Cáp theo tổ đội 5 người (Trưởng nhóm + 4 Thành viên)",
-    "Tự động nhận diện nhân vật ingame và đồng bộ cấu hình",
-    "Quản lý đa tab với giới hạn số luồng bản quyền Cloudflare Worker (24 tabs mặc định)",
-    "Tích hợp tính năng tự động kiểm tra và cập nhật phiên bản mới (Auto Update)"
+    "Cập nhật cấu hình máy chủ riêng biệt cho từng tài khoản (Nhẫn Giả 1 / Nhẫn Giả 2)",
+    "Ẩn tùy chọn chọn máy chủ chung ở thanh dưới để tránh nhầm lẫn",
+    "Sửa triệt để lỗi nạp tài khoản từ thư mục game (không còn nạp nhầm nickname nhân vật)",
+    "Tối ưu hộp thoại bản quyền và giao diện hiển thị gọn gàng",
+    "Cải thiện độ ổn định và tự động kết nối"
   ],
   "mandatory": false
 }
