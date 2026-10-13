@@ -9,7 +9,6 @@
   "changelog": [
     "Tự động kích hoạt nhặt đồ gốc game và sửa triệt để lỗi không nhặt đồ khi săn boss/phó bản",
     "Khắc phục trễ nhặt đồ phó bản Cấm Thuật (nhặt quà ngay lập tức khi diệt boss, không chờ lượt mới)",
-    "Tối ưu bộ lọc người chơi trong khu vực săn boss (loại trừ bản thân, đệ tử, phân thân, tổ đội)",
     "Cải thiện độ ổn định và tự động kết nối"
   ],
   "mandatory": false
