@@ -1,15 +1,14 @@
 {
   "product": "tool_auto_soncap",
   "name": "Tool Auto Sơn Cáp",
-  "version": "1.0.2",
-  "versionCode": 102,
-  "releaseDate": "2026-10-13",
+  "version": "1.0.3",
+  "versionCode": 103,
+  "releaseDate": "2026-10-15",
   "downloadUrl": "https://github.com/JayKizey/mod-store-release/releases/latest/download/ToolAutoSonCap_Release.zip",
-  "fallbackUrl": "https://github.com/JayKizey/mod-store-release/releases/download/v1.0.2/ToolAutoSonCap_Release.zip",
+  "fallbackUrl": "https://github.com/JayKizey/mod-store-release/releases/download/v1.0.3/ToolAutoSonCap_Release.zip",
   "changelog": [
-    "Tự động kích hoạt nhặt đồ gốc game và sửa triệt để lỗi không nhặt đồ khi săn boss/phó bản",
-    "Khắc phục trễ nhặt đồ phó bản Cấm Thuật (nhặt quà ngay lập tức khi diệt boss, không chờ lượt mới)",
-    "Cải thiện độ ổn định và tự động kết nối"
+    "Hiển thị số vàng của nhân vật trực tiếp trên giao diện Mod trong game",
+    "Fix lỗi nhặt đồ, auto game",
   ],
   "mandatory": false
 }
