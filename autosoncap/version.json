@@ -1,14 +1,14 @@
 {
   "product": "tool_auto_soncap",
   "name": "Tool Auto Sơn Cáp",
-  "version": "1.0.3",
-  "versionCode": 103,
-  "releaseDate": "2026-10-15",
+  "version": "1.0.4",
+  "versionCode": 104,
+  "releaseDate": "2026-10-16",
   "downloadUrl": "https://github.com/JayKizey/mod-store-release/releases/latest/download/ToolAutoSonCap_Release.zip",
-  "fallbackUrl": "https://github.com/JayKizey/mod-store-release/releases/download/v1.0.3/ToolAutoSonCap_Release.zip",
+  "fallbackUrl": "https://github.com/JayKizey/mod-store-release/releases/download/v1.0.4/ToolAutoSonCap_Release.zip",
   "changelog": [
-    "Hiển thị số vàng của nhân vật trực tiếp trên giao diện Mod trong game",
-    "Fix lỗi nhặt đồ, auto game",
+    "Fix lỗi nhặt đồ Cấm Thuật, auto game",
+    "Tối ưu giao diện và thông báo cập nhật"
   ],
   "mandatory": false
 }
