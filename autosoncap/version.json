@@ -8,7 +8,7 @@
   "fallbackUrl": "https://github.com/JayKizey/mod-store-release/releases/download/v1.0.5/ToolAutoSonCap_Release.zip",
   "changelog": [
     "Tự động Retry tham gia phó bản (Sơn Cáp, Địa Cung, Cấm Thuật) tuân thủ chính xác các Phase được chọn trên Tool",
-    "Tài khoản thành viên (Member) tự động vào lại Sơn Cáp hội quân cùng Trưởng nhóm khi văng game hoặc vào trễ"
+    "Tài khoản thành viên (Member) tự động vào lại Sơn Cáp hội quân cùng Trưởng nhóm khi văng game hoặc vào trễ" 
   ],
   "mandatory": true
 }
