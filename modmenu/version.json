@@ -1,0 +1,18 @@
+{
+  "product": "mod_menu",
+  "name": "Nhẫn Giả Chiến Thần - Mod Menu",
+  "version": "1.0.0",
+  "versionCode": 100,
+  "releaseDate": "2026-11-09",
+  "downloadUrl": "https://github.com/JayKizey/mod-store-release/releases/latest/download/NhanGiaChienThan_Mod.zip",
+  "fallbackUrl": "https://github.com/JayKizey/mod-store-release/releases/download/v1.0.0/NhanGiaChienThan_Mod.zip",
+  "changelog": [
+    "Điều khiển: Loại bỏ toàn bộ phím tắt và lệnh chat tự kích hoạt tính năng (tránh xung đột khi gõ phím và chat trong game)",
+    "Bảo mật: Mã hóa toàn diện file cấu hình Mod (AES-128 chống xem trộm và can thiệp)",
+    "Bản quyền: Kích hoạt License Server Online cho toàn bộ tính năng VIP",
+    "Sao Pha Lê: Thiết lập mẫu 10 chỉ số SPL ưu tiên mặc định, tự động khảm và tách SPL chuẩn xác",
+    "Giao diện: Tinh chỉnh menu F1 trực quan, hiển thị slot khảm và trạng thái rõ ràng",
+    "Tự động cập nhật phiên bản mới (Auto Updater)"
+  ],
+  "mandatory": false
+}
